@@ -19,7 +19,7 @@
     <item
         android:id="@+id/menu_main_donate"
         android:icon="@drawable/ic_beer"
-        android:showAsAction="ifRoom"
+        android:showAsAction="always"
         android:title="@string/menu_donate">
         <menu>
             <item
